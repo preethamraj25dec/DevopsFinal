@@ -8,7 +8,7 @@ function Home() {
       <div>
         <span className="tagline">JUST DOES IT</span>
         <div className="tagline-para">
-          Nike has been your compadsdvsdvnion in happiness, both big and small, for
+          Nike has been your companion in happiness, both big and small, for
           over 50 years. Our roots are firmly grounded in India and with its
           people.
         </div>
@@ -32,8 +32,8 @@ function Home() {
                     alt={shoe.name}
                     src={shoe.img}
                   />
-                  <h3 className="shoe-name">{shoe.name} puma</h3>
-                  <h3 className="shoe-price">${shoe.price} nike</h3>
+                  <h3 className="shoe-name">{shoe.name}</h3>
+                  <h3 className="shoe-price">${shoe.price}</h3>
                 </div>
               );
             })}
