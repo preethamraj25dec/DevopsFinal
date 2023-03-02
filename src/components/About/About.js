@@ -7,7 +7,7 @@ function About() {
         <div className="about-nike">
           <h2 className="about-nike-text">OUR MISSION</h2>
           <p>
-            "BRING INSPIRATION AND INNOVATION TO EVERY ATHLETE* IN THE WORLD"
+            "BRING INSPIRATION AND INNOVATION TO EVERY ATHLETE IN THE WORLD"
           </p>
         </div>
       </div>
