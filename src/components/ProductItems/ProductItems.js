@@ -21,7 +21,7 @@ function ProductItems() {
       </Link>
       <div className="product-items">
         <h3 className="shoe-name">{shoe.name}</h3>
-        <h2 className="shoe-price"> Price = {shoe.price} rat</h2>
+        <h2 className="shoe-price"> Price = {shoe.price} </h2>
         <img
           className="shoe-image"
           alt="Shoe"
