@@ -18,7 +18,7 @@ function Home() {
         <br />
         <div className="latest-container">
           <hr className="line" /> &nbsp; &nbsp;
-          <span className="latest-designs">Latest Designs</span>&nbsp;&nbsp;
+          <span className="latest-designs">Latest Desigerwsns</span>&nbsp;&nbsp;
           <hr className="line" />
           <br />
           <br />
@@ -32,8 +32,8 @@ function Home() {
                     alt={shoe.name}
                     src={shoe.img}
                   />
-                  <h3 className="shoe-name">{shoe.name} nike</h3>
-                  <h3 className="shoe-price">${shoe.price} puma</h3>
+                  <h3 className="shoe-name">{shoe.name} jajhaja</h3>
+                  <h3 className="shoe-price">${shoe.price} sdhvcuwvyciwy</h3>
                 </div>
               );
             })}
