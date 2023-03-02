@@ -18,7 +18,7 @@ function Home() {
         <br />
         <div className="latest-container">
           <hr className="line" /> &nbsp; &nbsp;
-          <span className="latest-designs">Latest Desigerwsns</span>&nbsp;&nbsp;
+          <span className="latest-designs">Latest Designs</span>&nbsp;&nbsp;
           <hr className="line" />
           <br />
           <br />
