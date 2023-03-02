@@ -64,12 +64,15 @@ function Nav() {
       <div className="nav-container">
         <nav>
           <h2>
-            <img
+          <a href="https://www.nike.com/in/"><img
               className="logo"
               src={NikeImage}
+              
               title="Nike logo"
               alt="Nike Logo"
-            />
+              
+            /></a>
+            
 
             <Link className={homeState} to="/" onClick={setHome}>
               {" "}
